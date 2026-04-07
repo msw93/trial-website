@@ -1,22 +1,11 @@
 {
-  "name": "trial-website",
+  "name": "portfolio-2026",
   "version": "1.0.0",
-  "description": "Hello this is just a test repository for my website.  May change at some point to real repository for my website. We will see.",
-  "main": "index.js",
+  "description": "Modern portfolio website",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mikewiner/trial-website.git"
+    "start": "npx serve ."
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mikewiner/trial-website/issues"
-  },
-  "homepage": "https://github.com/mikewiner/trial-website#readme",
-  "dependencies": {
-    "lodash": "^4.17.15"
-  }
+  "license": "MIT"
 }
